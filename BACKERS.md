@@ -76,6 +76,16 @@
       </a>
     </td>
     <td align="center" valign="middle">
+      <a href="https://www.reddit.com/r/Streamers/comments/1vlh2pp/does_anyone_know_where_to_buy_kick_viewers_just/" target="_blank">
+        <img src="https://framework7.io/i/sponsors/" alt="Buy Kick Viewers" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.reddit.com/r/botting/comments/1vys53t/whats_the_best_kick_view_bot/" target="_blank">
+        <img src="https://framework7.io/i/sponsors/" alt="Kick View Bot" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
       <a href="https://watchthis.dev" target="_blank">
         <img src="https://cdn.sponsors.nolimits4web.com/AOtukRJjnjUWelCb4n3I/ZNfwbFNKe8mRp5MWhfjO/e4ed15d4343efb5b.png" alt="WatchThis — JavaScript SEO Checker" width="160">
       </a>
@@ -111,22 +121,17 @@
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://www.reddit.com/r/SmartBuying/comments/1tyj4cx/where_can_i_buy_linkedin_followers_likes_and/" target="_blank">
-        <img src="https://framework7.io/i/sponsors/" alt="Buy LinkedIn Followers" width="160">
-      </a>
-    </td>
-    <td align="center" valign="middle">
       <a href="https://www.jbo88b.com/vn/" target="_blank">
         <img src="https://framework7.io/i/sponsors/jbo-vietnam.png" alt="JBO" width="160">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <a href="https://views4you.com/buy-instagram-followers/" target="_blank">
         <img src="https://framework7.io/i/sponsors/buy-instagram-followers-v4y.png" alt="buy instagram followers views4you" width="160">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle">
       <a href="https://cleverhumanizer.ai/" target="_blank">
         <img src="https://cdn.sponsors.nolimits4web.com/ax13DbzrBlYi6KxgD4aA/LGwYIYyaNy9addegbe9Q/899ac7659d2581d9.png" alt="AI Humanizer" width="160">
@@ -155,11 +160,6 @@
     <td align="center" valign="middle">
       <a href="https://www.jazzonline.gr/" target="_blank">
         <img src="https://framework7.io/i/sponsors/to-kalytero-online-casino.png" alt="το καλυτερο online casino" width="160">
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://apuesdeportivas.es/" target="_blank">
-        <img src="https://framework7.io/i/sponsors/apuesdeportivas-es.png" alt="apuesdeportivas.es" width="160">
       </a>
     </td>
     <td align="center" valign="middle">
@@ -200,11 +200,6 @@
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://www.reddit.com/r/SocialBlueprint/comments/1s558re/whats_the_best_site_to_buy_instagram_shares_saves/" target="_blank">
-        <img src="https://framework7.io/i/sponsors/" alt="Buy Instagram Shares Saves and Reposts" width="160">
-      </a>
-    </td>
-    <td align="center" valign="middle">
       <a href="https://www.casino.escritoscientificos.es/" target="_blank">
         <img src="https://framework7.io/i/sponsors/casinos-fiables-fuera-de-espana.png" alt="casinos fiables fuera de España" width="160">
       </a>
@@ -217,11 +212,6 @@
     <td align="center" valign="middle">
       <a href="https://pl.topkasynoonline.com/" target="_blank">
         <img src="https://framework7.io/i/sponsors/topkasynoonline-pl.png" alt="TopKasynoOnline PL" width="160">
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://www.fbpostlikes.com/" target="_blank">
-        <img src="https://framework7.io/i/sponsors/" alt="FBPostLikes" width="160">
       </a>
     </td>
     <td align="center" valign="middle">
@@ -249,8 +239,6 @@
         <img src="https://framework7.io/i/sponsors/fun88-official.png" alt="Fun88" width="160">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle">
       <a href="https://scribehow.com/page/Instagram_Private_Account_Viewer_Method_2026_The_Safe_Way_to_See_Whats_Hidden__h8D5DquxRpyhsDSCv5mYdg" target="_blank">
         <img src="https://framework7.io/i/sponsors/private-instagram-viewer-with-no-login-required.png" alt="Private Instagram Viewer with no login required" width="160">
@@ -261,6 +249,8 @@
         <img src="https://framework7.io/i/sponsors/funded-account-pro.png" alt="Funded Account PRO" width="160">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <a href="https://idealecasinos.com/" target="_blank">
         <img src="https://framework7.io/i/sponsors/idealecasinoscom.png" alt="iDealeCasinos" width="160">
@@ -311,8 +301,6 @@
         <img src="https://framework7.io/i/sponsors/prestige_logo.webp" alt="Super Clone Watches: Best Website for 1:1 Replica Watches" width="160">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle">
       <a href="https://www.socialfollowers.uk/buy-tiktok-followers/" target="_blank">
         <img src="https://framework7.io/i/sponsors/social-followers.png" alt="Buy Tiktok Followers" width="160">
@@ -323,6 +311,8 @@
         <img src="https://framework7.io/i/sponsors/bruce-dilger.png" alt="Bruce Dilger" width="160">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <a href="https://writingmetier.com/ib-internal-assessment-writing-service/" target="_blank">
         <img src="https://framework7.io/i/sponsors/writing-metier.png" alt="IB IA Writing Service | Buy SL or HL Assessments" width="160">
@@ -373,8 +363,6 @@
         <img src="https://framework7.io/i/sponsors/jinacoin.png" alt="JinaCoin | 仮想通貨/暗号資産ニュース・情報メディア" width="160">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle">
       <a href="https://blastup.com/buy-instagram-likes" target="_blank">
         <img src="https://framework7.io/i/sponsors/blastup_com.png" alt="Buy Instagram Likes - Real Likes & Instant Delivery!" width="160">
@@ -385,6 +373,8 @@
         <img src="https://framework7.io/i/sponsors/doublethebitcoin.png" alt="Best Bitcoin Casinos" width="160">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <a href="https://opencollective.com/bet-consulting" target="_blank">
         <img src="https://framework7.io/i/sponsors/bet-consulting.png" alt="Bet Consulting" width="160">
@@ -435,8 +425,6 @@
         <img src="https://framework7.io/i/sponsors/lucky-jet-brazil.png" alt="Revisão do jogo Lucky Jet - Jogue por dinheiro real Jogos Lucky Jet" width="160">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle">
       <a href="https://emporioae.com/" target="_blank">
         <img src="https://framework7.io/i/sponsors/crazy-time-italia.png" alt="Gioca Crazy Time Casinò per soldi veri - Crazy Time Casinò Italia" width="160">
@@ -447,6 +435,8 @@
         <img src="https://framework7.io/i/sponsors/jetxgame.png" alt="JetX Apostas | JetiX Aposta - Jogo do Foguete que Ganha Dinheiro" width="160">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <a href="https://play-jetx.com/" target="_blank">
         <img src="https://framework7.io/i/sponsors/play-jetx.png" alt="jogo do aviãozinho" width="160">
@@ -497,8 +487,6 @@
         <img src="https://framework7.io/i/sponsors/casinoexpo.jpg" alt="CasinoExpo svenska nya casinon online" width="160">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle">
       <a href="https://najlepsibukmacherzy.pl/ranking-legalnych-bukmacherow/" target="_blank">
         <img src="https://framework7.io/i/sponsors/netpositive.png" alt="Ranking Bukmacherów Legalnych 2020. Bukmacher nr 1 to..." width="160">
@@ -509,6 +497,8 @@
         <img src="https://framework7.io/i/sponsors/evolution-host.png" alt="Evolution Host - A DDoS Protected VPS host that accepts Bitcoin" width="160">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <a href="https://rise.co" target="_blank">
         <img src="https://framework7.io/i/sponsors/rise.png" alt="Rise — Creative Web Development Agency" width="160">
@@ -534,6 +524,8 @@
         <img src="https://framework7.io/i/sponsors/wappler.png" alt="Wappler - The Visual Web App Creator" width="160">
       </a>
     </td>
+    <td align="center" valign="middle"></td>
+    <td align="center" valign="middle"></td>
     <td align="center" valign="middle"></td>
     <td align="center" valign="middle"></td>
     <td align="center" valign="middle"></td>
@@ -592,6 +584,8 @@ Support Framework7 development by [pledging on Patreon](https://www.patreon.com/
 ### \$50+ Top Supporter
 
 <!-- TOP_SUPPORTER -->
+- [Buy Kick Viewers](https://www.reddit.com/r/Streamers/comments/1vlh2pp/does_anyone_know_where_to_buy_kick_viewers_just/)
+- [Kick View Bot](https://www.reddit.com/r/botting/comments/1vys53t/whats_the_best_kick_view_bot/)
 - [WatchThis — JavaScript SEO Checker](https://watchthis.dev)
 - [SEO Company Calgary](https://prime-digital.ca)
 - [headshot.ltd](https://headshot.ltd)
@@ -599,7 +593,6 @@ Support Framework7 development by [pledging on Patreon](https://www.patreon.com/
 - [fun88](https://www.fun88vnplay.com/)
 - [fun88](https://www.fun88asiath.com/)
 - [jbo](https://www.jbo579.com/th/)
-- [Buy LinkedIn Followers](https://www.reddit.com/r/SmartBuying/comments/1tyj4cx/where_can_i_buy_linkedin_followers_likes_and/)
 - [JBO](https://www.jbo88b.com/vn/)
 - [buy instagram followers views4you](https://views4you.com/buy-instagram-followers/)
 - [AI Humanizer](https://cleverhumanizer.ai/)
@@ -608,7 +601,6 @@ Support Framework7 development by [pledging on Patreon](https://www.patreon.com/
 - [casinos sin licencia España](https://cluc.cat/)
 - [casinos online portugal](https://nomia.pt/)
 - [το καλυτερο online casino](https://www.jazzonline.gr/)
-- [apuesdeportivas.es](https://apuesdeportivas.es/)
 - [maxamind.com - the personal knowledge and productivity workbench](https://www.maxamind.com/)
 - [Minesweeper](https://minesweeper.now)
 - [Transcribe Youtube Videos](https://transcript.you)
@@ -616,11 +608,9 @@ Support Framework7 development by [pledging on Patreon](https://www.patreon.com/
 - [Time Calculator](https://time.now/time/calculator/)
 - [super clone watches](https://superclonewatches.com/)
 - [Time Now](https://time.now)
-- [Buy Instagram Shares Saves and Reposts](https://www.reddit.com/r/SocialBlueprint/comments/1s558re/whats_the_best_site_to_buy_instagram_shares_saves/)
 - [casinos fiables fuera de España](https://www.casino.escritoscientificos.es/)
 - [Viron Kasinot](https://viron-nettikasinot.net/)
 - [TopKasynoOnline PL](https://pl.topkasynoonline.com/)
-- [FBPostLikes](https://www.fbpostlikes.com/)
 - [Fun88 Vietnam](https://www.fun88vnu.com/vn/)
 - [Fun88 Thailand](https://www.fun88tha.com/th/)
 - [utländska casino 10 euro](https://casinobonusutaninsattning.net/10-euro-casino-utan-licens/)
